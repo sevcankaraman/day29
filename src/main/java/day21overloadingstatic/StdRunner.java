@@ -1,5 +1,7 @@
 package day21overloadingstatic;
 
+import java.util.List;
+
 public class StdRunner {
     public static void main(String[] args) {
 
@@ -20,6 +22,11 @@ public class StdRunner {
         // static olanları object ile çağırmak tavsiye edilmez.
         String s=std1.getInitial("Ali Can");
         System.out.println("s = " + s);
+
+        //List oluşturmada yenı bır ısıltı...
+
+        List <String>names=List.of("Ali","Veli","kemal","Can");
+        System.out.println("names = " + names);
 
 
 
