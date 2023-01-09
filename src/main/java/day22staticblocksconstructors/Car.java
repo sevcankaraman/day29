@@ -20,7 +20,7 @@ public class Car {
          INTERWİEW SORUSU
 
          method ile constructor ın farkı var mıdır ?
-         varsa nedır?
+         var sa nedır?
 
          CEVAP: meTHOD İLE CONSTRUCTOR FARKLI YAPILARDIR.
          1) Methodlarda return type vardır . contructor larda return type yoktur
