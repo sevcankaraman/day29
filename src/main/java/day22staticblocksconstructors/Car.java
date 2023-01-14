@@ -24,8 +24,8 @@ public class Car {
 
          CEVAP: meTHOD İLE CONSTRUCTOR FARKLI YAPILARDIR.
          1) Methodlarda return type vardır . contructor larda return type yoktur
-         2) Methodların ısmı yaptıkları işe gore developerlar tarfından belırlenır.Constructorların
-            ismi ise her zaman class ısmı ıle aynı olmalıdır.
+         2) Methodların ısmı yaptıkları işe gore developerlar tarfından belırlenır.
+            Constructorların ismi ise her zaman class ısmı ıle aynı olmalıdır.
      */
 
     //this.make bu class daki make i benim yaptigim make yap demek
