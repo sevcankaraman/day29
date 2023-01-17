@@ -30,6 +30,8 @@ public class Cat extends Mammal {
     public Integer multiply(int a, int b) {
         return a*b;
     }
+
+
     //Parrent'daki methodu alip degistirerek kullanmaya "override" denir
 
     // override yapip eat methodunu kedilere uyarlamazsak Animals eat yazar.

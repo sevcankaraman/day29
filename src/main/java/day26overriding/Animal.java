@@ -40,6 +40,7 @@ public class Animal {
        main method lar override edilemezler cunku statictir.
     15) "override" yapabılmek ıcın  "Inharitance" sarttır.baska bır ıfadeyle parent-chıld ilişkisi sarttır.
     16) method overloadıng "compile tıme polymorphism" dır. method overrıdıng "run tıme polymorphısm" dir
+    17)method overloadıng "static polymorphism" dır. method overrıdıng "dinamic  polymorphısm" dir
 
     public int add (){}
 
