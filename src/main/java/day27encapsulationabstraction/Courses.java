@@ -15,8 +15,8 @@ public abstract class Courses {
         3)Bir method'un body'sini silmek o method'un abstract olmasi icin yeterli degildir.
           "access modifier" ile "return type" arasina "abstract" keyword koymak gerekir.
 
-        4)"abstract method" lar siradan class'larin(concrete) icine yazilamazlar, "abstract method" larin icine yazildiklari class'lar da
-          abstract olmak zorundadirlar.
+        4)"abstract method" lar siradan class'larin(concrete) icine yazilamazlar, "abstract method" larin icine
+        yazildiklari class'lar da abstract olmak zorundadirlar.
 
         5)"abstract class" larda hem "abstract method" lar hem de "concrete method" lar kullanilabilir.
 
@@ -32,7 +32,10 @@ public abstract class Courses {
 
 
 
-        //final method'lar "override" edilemezler, halbuki "abstract" method'lar override edilmek icin olusturulurlar.
+
+
+        //final method'lar "override" edilemezler, halbuki "abstract" method'lar override
+    // edilmek icin olusturulurlar.
         //Bu celiskidir, bu yuzden Java abstract method'larin final olmasina musaade etmez.
 
         //public final abstract void science();

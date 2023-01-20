@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class C02_scanner {
 
     // scanner class ı kullanıcı ile etkileşim kurmamızı sağlar
-    //Scannebir Class tır. Java util kütüphanesinden getirildiği için import ister
+    //Scanner bir Class tır. Java util kütüphanesinden getirildiği için import ister
 
     public static void main(String[] args) {
 

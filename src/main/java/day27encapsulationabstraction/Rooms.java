@@ -1,6 +1,6 @@
 package day27encapsulationabstraction;
 
-public abstract class Rooms extends Courses {
+public abstract class   Rooms extends Courses {
 
     // //"abstract class" larin parent'daki abstract method'lari override etme
     //    //zorunlulugu yoktur.
