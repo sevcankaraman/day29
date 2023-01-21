@@ -99,6 +99,36 @@ public class StringManipulation_SoruBankasi {
         //yazınız
 
 
+        String k="Sevcan Karaman.";
+        char ilkKaraktr=k.charAt(0);
+        char sonKaraktr=k.charAt(k.length()-1);
+        Boolean ilkKarakterBuyukMu=ilkKaraktr>='A'&&sonKaraktr<='Z';
+        Boolean sonKarakterNoktaMi=sonKaraktr=='.';
+        Boolean ilkKarakterBuyukSonKarakterNoktami=ilkKarakterBuyukMu&&sonKarakterNoktaMi;
+
+        System.out.println("sonKarakterNoktaMi = " + sonKarakterNoktaMi);
+
+        //13.soru :
+        /*
+        Aşağıdaki koşullar için bir parolanın geçerli olup olmadığını kontrol etmek için kod yazınız;
+        Şifre boşluk karakterinden farklı olacak şekilde en az 8 karakter içermelidir. Şifrede en az 1
+        sembol olmalıdır.
+                   Örnek:'A2b!' için kodunuz konsolda false yazdırmalıdır.
+                         'A2b3cdef' için kodunuz konsolda false yazdırmalıdır
+                         '!1a23b4' için kodunuz konsolda false yazdırmalıdır.
+                         '!1a23b4?es' için kodunuz konsolda true yazdırılmalıdır.
+                         '! a b 3 k' kodunuz konsolda false yazdırmalıdır
+         */
+
+        String sifre ="!a23b4?es";
+        boolean KarakterSayisi=sifre.replaceAll("\\s","").length()>=8;
+        boolean enAzBirSembolVarMi= Boolean.parseBoolean(sifre.replaceAll("\\s"," "));
+
+        
+        
+        
+
+
 
 
 

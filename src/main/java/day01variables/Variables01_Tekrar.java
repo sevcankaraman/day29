@@ -1,6 +1,6 @@
 package day01variables;
 
-public class Variables01_Tekrar {
+public class  Variables01_Tekrar {
 
         public static void main(String[] args) {
 

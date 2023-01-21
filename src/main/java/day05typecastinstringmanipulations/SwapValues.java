@@ -39,9 +39,5 @@ public class SwapValues {
         System.out.println("y"+y);
 
 
-
-
-
-
     }
 }
