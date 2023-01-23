@@ -10,7 +10,8 @@ public class WrapperClass {
         int n=12;//"n" yazıp nokta koyarsanız hiç method göremezsiniz,çünkü " primitiviler"
         //method içermez
 
-        Integer m=12;//"m" yazıp nokta koyarsanız birçok method görursunuz,çünkü " wrapper classlar"
+        Integer m=12;
+        //"m" yazıp nokta koyarsanız birçok method görursunuz,çünkü " wrapper classlar"
         //method icerir
 
         byte p=23;

@@ -71,8 +71,10 @@ public class StringManipulations01 {
         boolean result5 = t.isBlank();
         System.out.println("sadece space mi var?" + result5);
 
-        //example 6: bir String de  a,e,i characterlerinin ilk görünümlerinin indexleri toplamını ekrana yazdırın
-        //           "Java is easy to learn"==>1+5+8=14
+
+
+
+
 
         String r = "Java is easy to learn";
 
@@ -94,9 +96,12 @@ public class StringManipulations01 {
         String u = " ah java vah java sensiz oluyor java";
         int idxjava = u.indexOf("java");
         System.out.println(idxjava);
+        //indexs of methodu olmayan karakterler ıcın kullanılırsa her zaman -1 verir.
+        int idxOfXyz=u.indexOf("xyz");
+        System.out.println(idxOfXyz);
 
 
-        //example 6: bir String de  a,e,i characterlerinin son görünümlerinin indexleri toplamını ekrana yazdırın
+        //example 8: bir String de  a,e,i characterlerinin son görünümlerinin indexleri toplamını ekrana yazdırın
         //           "Java is easy to learn"==>18+5+17=40
 
         String v = "Java is easy to learn";

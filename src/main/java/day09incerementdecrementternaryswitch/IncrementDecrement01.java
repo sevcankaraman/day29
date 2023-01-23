@@ -7,7 +7,7 @@ public class IncrementDecrement01 {
       int  a= 5;
         System.out.println(a);
         //incerement1
-        a=a+2;
+        a=a+2;// a+=2
         System.out.println(a);
 
         int b= 10;

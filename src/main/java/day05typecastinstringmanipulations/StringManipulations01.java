@@ -1,6 +1,6 @@
 package day05typecastinstringmanipulations;
 
-public class StringManipulations01 {
+public class  StringManipulations01 {
 
 // String bir non primitive data type dır ve aynı zamanda class dır.
 

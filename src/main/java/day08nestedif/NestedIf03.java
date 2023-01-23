@@ -18,7 +18,9 @@ public class NestedIf03 {
         System.out.println("Passwordunuzu giriniz...");
         String pwd = input.nextLine();
 
-        char firstChar = pwd.charAt(0);
+        char firstChar = pwd.charAt(0);// burda ilk karakteri aldık.artık tekrar tekrar gitmiycez stringe.
+        // eger bir methodu kodunuzda tekrar tekrar kullancaksanız. o methodu bır kere kullanıp memory e yerlesştırın
+        // sonra o memory dekı yeri kullanın.
 
         if (firstChar >= 'A' && firstChar <= 'Z') {
 
