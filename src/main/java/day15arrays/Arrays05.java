@@ -1,7 +1,5 @@
 package day15arrays;
 
-import com.beust.ah.A;
-
 import java.util.Arrays;
 import java.util.Comparator;
 

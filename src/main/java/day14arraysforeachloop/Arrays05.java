@@ -2,7 +2,7 @@ package day14arraysforeachloop;
 
 import java.util.Arrays;
 
-public class Arrays05 {
+public class  Arrays05 {
     public static void main(String[] args) {
 
         //Note 1: sort() method'u sayisal data type'larini kucukten buyuge siralar(ascending order)

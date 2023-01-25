@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class LoginMain {
 /*
     Project: Bir siteye üye olma ve giriş yapma sayfası tasarlayınız.
-            menü: kullanıcıya işlem seçimi için menü gösterilir.
+    menü: kullanıcıya işlem seçimi için menü gösterilir.
     üye olma(register): kullanıcıdan ad-soyad, kullanıcı adı, email ve şifre bilgileri alınız.
     kullanıcı adı, email ve şifre birer listede tutulur.
     aynı kullanıcı adı veya email kabul edilmez.
