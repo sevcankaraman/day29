@@ -28,6 +28,7 @@ public class HashSet01 {
 
              iii)TreeSet: a) TreeSet elemanları ""naturel order "(küçükten büyüğe veya alfebetik sıra) a göre dızer
                           b) TreeSet "naturel order" yaparken cok zaman harcar o yüzden en yavas "Set"tir.
+                          c) TreeSet ler tekrarlı elemana musade etmezler
 
 
  */
