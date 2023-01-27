@@ -1,7 +1,5 @@
 package day16multidimesionalarrays;
 
-import com.beust.ah.A;
-
 import java.util.Arrays;
 
 public class Md04 {

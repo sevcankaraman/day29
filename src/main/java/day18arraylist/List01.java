@@ -16,6 +16,7 @@ public class List01 {
         ages.add(8);
         ages.add(12);
 
+
         //Note: Siz Java'da tamsayi yazdiginizda, Java o tamsayinin data type'ini otomatik olarak "primitive int" kabul eder.
         //      Bu yuzden remove() method'unun icine yazdiginiz tamsayi eleman olarak degil index olarak kabul edilir.
         //      Tamsayi'yi eleman olarak gostermenin birkac yolu vardir.

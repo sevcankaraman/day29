@@ -3,7 +3,7 @@ package day17arraylist;
 import java.util.ArrayList;
 import java.util.List;
 
-public class ArrayList02 {
+public class  ArrayList02 {
     public static void main(String[] args) {
 
         //ArrayList olustuturken sag tarafa Array List yazmak zorundasınız.

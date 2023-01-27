@@ -141,7 +141,7 @@ public class ArrayList01 {
 
         Scanner input= new Scanner(System.in);
         List<String> c = new ArrayList<>();
-        c.add("Atki");
+        c.add("A");
         c.add("K");
         c.add("R");
         c.add("S");
