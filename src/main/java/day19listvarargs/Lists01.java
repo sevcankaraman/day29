@@ -46,7 +46,7 @@ public class Lists01 {
 
         do {
             System.out.println("Aradiginiz urunun ismini giriniz...");
-            String p = input.nextLine();
+            String p = input.nextLine().toLowerCase();
 
             if (p.equalsIgnoreCase("Q")) {
                 break;
