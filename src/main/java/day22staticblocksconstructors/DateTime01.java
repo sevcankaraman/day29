@@ -10,6 +10,8 @@ import java.util.Date;
 
 public class DateTime01 {
     public static void main(String[] args) {
+
+        //Date class
         Date myDate=new Date();
         System.out.println("myDate = " + myDate);//myDate = Sat Jan 07 23:28:45 TRT 2023
         System.out.println("myDate.getTime() = " + myDate.getTime());//1673123325971=1 ocak 1970 den su ana kadarkı mılı sanıye mıktarıdır

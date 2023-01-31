@@ -1,6 +1,6 @@
 package day22staticblocksconstructors;
 
-public class Car {
+public class    Car {
     /*
          Constructor nedir?
          Class dan obje uretmemize yarayan code block larıdır.
@@ -59,6 +59,7 @@ boolean hybrid=true;
         this.make = make;
         this.year = year;
     }
+
 
     @Override
     public String toString() {

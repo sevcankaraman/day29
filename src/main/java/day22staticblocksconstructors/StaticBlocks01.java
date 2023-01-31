@@ -1,6 +1,7 @@
 package day22staticblocksconstructors;
 
 public class StaticBlocks01 {
+
     //Bir variable olustudugunuzda deger atamazsaniz o variable'i "initialize" etmediniz demektir.
     // Static variable'lar static block'lar icinde initialize edilirse o class'in icinde her sey'den
     // once hazir hale getirilmis olur.

@@ -1,7 +1,5 @@
 package advancepractice.practisedaytime01;
 
-import net.bytebuddy.implementation.bytecode.collection.ArrayAccess;
-
 import java.util.Arrays;
 
 public class Q05_ForEach_EuroDolar {

@@ -7,7 +7,10 @@ public class  Vehicle {
           parent class'dan baslatilarak alta dogru calistirilir.
 
      */
-
+      public int price =120000;
+      public void engine(){
+          System.out.println(   "vehicle engine" );
+      }
 
     public Vehicle(){
         System.out.println("vehicle 1");
@@ -16,6 +19,7 @@ public class  Vehicle {
 
 
     public Vehicle(int price){
+
         System.out.println("Vehicle 2: " + price);
     }
 
