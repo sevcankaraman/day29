@@ -7,6 +7,7 @@ public class HacimRunner {
 
 
     public static void main(String[] args) {
+
         KarePrizma karePrizma =new KarePrizma();
         double karePrizmaHacmi = karePrizma.hacimHesapla(5,6);
         System.out.println("karePrizmaHacmi = " + karePrizmaHacmi);//150.0
@@ -26,6 +27,7 @@ public class HacimRunner {
         Silindir silindir = new Silindir();
         double silindirHacmi=silindir.hacimHesapla(1,5);
         System.out.println("silindirHacmi = " +obj.format(silindirHacmi));//silindirHacmi = 15.70
+
 
 
 

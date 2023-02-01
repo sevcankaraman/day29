@@ -2,6 +2,7 @@ package day25inheritance;
 
 public class A04_Lessons {
     public void liveSession(){
+
         System.out.println("onlıne dersler");
     }
 
