@@ -46,6 +46,7 @@ public class TreeMap01 {
 
         TreeMap<String, Integer> stdAges4=new TreeMap<>(stdAges3);
         System.out.println(stdAges4);
+
         long four = System.nanoTime();
 
         System.out.println("treemap : "+ (two-one));

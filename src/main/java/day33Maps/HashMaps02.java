@@ -6,6 +6,8 @@ import java.util.HashMap;
 public class HashMaps02 {
     public static void main(String[] args) {
 
+        // interviewde sorulur
+
         //Example 1: Size verilen bir cumledeki herbir kelimenin kacar kere kullanildigini gosteren kodu yaziniz.
         //           "Java is easy. Java is OOP. OOP makes Java easy." ==> Java=3, is=2, easy=2, OOP=2, makes=1
 

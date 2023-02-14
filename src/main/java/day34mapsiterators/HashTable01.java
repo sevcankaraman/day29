@@ -19,13 +19,12 @@ public class HashTable01 {
     public static void main(String[] args) {
         Hashtable<Integer,Integer> ht=new Hashtable<>();
 
-        ht.put(1,2);
-        ht.put(2,4);
-        ht.put(6,8);
+        ht.put(1,2);// 1 in kac bölenı var => 1 ve -1
+        ht.put(2,4);// 2 nin kac bölenı var => 1 , -1 , 2 , -2
+        ht.put(6,8);// 6 nın kac bölenı var => 1,2,3,6,-1,-2,-3,-6
 
         System.out.println(ht);
 
-        Enumeration<Integer> r= ht.elements();
-        System.out.println(r);
+
     }
 }

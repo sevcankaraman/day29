@@ -73,7 +73,7 @@ public class Iterators01 {
             //Asagidaki loop elemanlari en sondan en basa dogru yazdirmak icin yazildi.
             while(lisItr2.hasPrevious()){
                 String el = lisItr2.previous();
-                System.out.println(el + " <==");
+                System.out.print(el + " <==");
             }
         }
 

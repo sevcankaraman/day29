@@ -13,5 +13,6 @@ public class Deque01 {
         dq.add(1);
         System.out.println(dq);//[12, 5, 18, 9, 1]
 
+
     }
 }

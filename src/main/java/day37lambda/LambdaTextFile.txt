@@ -1,0 +1,4 @@
+Java bitmek uzere.
+Lambda kullanmayi ogrenirseniz listler ile çalismaniz kolaylasir
+Lambda Functional Programming dir
+Lambda da var olan methodlar kullanilarak islerimizi yapabiliriz
